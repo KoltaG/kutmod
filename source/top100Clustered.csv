@@ -1,0 +1,101 @@
+,title,Genre,cluster
+0,The Godfather,"Crime, Drama",4
+1,The Shawshank Redemption,Drama,0
+2,Schindler's List,"Biography, Drama, History",4
+3,Raging Bull,"Biography, Drama, Sport",1
+4,Casablanca,"Drama, Romance, War",4
+5,Citizen Kane,"Drama, Mystery",4
+6,Gone with the Wind,"Drama, Romance, War",4
+7,The Wizard of Oz,"Adventure, Family, Fantasy",5
+8,One Flew Over the Cuckoo's Nest,Drama,4
+9,Lawrence of Arabia,"Adventure, Biography, Drama",2
+10,Vertigo,"Mystery, Romance, Thriller",4
+11,Psycho,"Horror, Mystery, Thriller",5
+12,The Godfather Part II,"Crime, Drama",1
+13,On the Waterfront,"Crime, Drama, Thriller",4
+14,Sunset Blvd.,"Drama, Film-Noir",4
+15,Forrest Gump,"Drama, Romance",4
+16,The Sound of Music,"Biography, Drama, Family",5
+17,12 Angry Men,"Crime, Drama",4
+18,West Side Story,"Crime, Drama, Musical",3
+19,Star Wars,"Action, Adventure, Fantasy",4
+20,2001: A Space Odyssey,"Adventure, Sci-Fi",0
+21,E.T. the Extra-Terrestrial,"Adventure, Family, Sci-Fi",4
+22,The Silence of the Lambs,"Crime, Drama, Thriller",5
+23,Chinatown,"Drama, Mystery, Thriller",0
+24,The Bridge on the River Kwai,"Adventure, Drama, War",4
+25,Singin' in the Rain,"Comedy, Musical, Romance",4
+26,It's a Wonderful Life,"Drama, Family, Fantasy",1
+27,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Comedy, War",4
+28,Some Like It Hot,"Comedy, Music, Romance",4
+29,Ben-Hur,"Adventure, Drama",4
+30,Apocalypse Now,"Drama, Mystery, War",4
+31,Amadeus,"Biography, Drama, Music",1
+32,The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",4
+33,Gladiator,"Action, Adventure, Drama",1
+34,Titanic,"Drama, Romance",3
+35,From Here to Eternity,"Drama, Romance, War",4
+36,Saving Private Ryan,"Drama, War",4
+37,Unforgiven,"Drama, Western",5
+38,Raiders of the Lost Ark,"Action, Adventure",4
+39,Rocky,"Drama, Sport",4
+40,A Streetcar Named Desire,Drama,4
+41,The Philadelphia Story,"Comedy, Romance",4
+42,To Kill a Mockingbird,"Crime, Drama",4
+43,An American in Paris,"Drama, Musical, Romance",3
+44,The Best Years of Our Lives,"Drama, Romance, War",1
+45,My Fair Lady,"Drama, Family, Musical",4
+46,A Clockwork Orange,"Crime, Sci-Fi",4
+47,Doctor Zhivago,"Drama, Romance, War",3
+48,The Searchers,"Adventure, Drama, Western",1
+49,Jaws,"Adventure, Thriller",4
+50,Patton,"Biography, Drama, War",4
+51,Butch Cassidy and the Sundance Kid,"Biography, Crime, Drama",0
+52,The Treasure of the Sierra Madre,"Adventure, Drama, Western",4
+53,"Il buono, il brutto, il cattivo","Adventure, Western",0
+54,The Apartment,"Comedy, Drama, Romance",4
+55,Platoon,"Drama, War",0
+56,High Noon,"Drama, Thriller, Western",4
+57,Braveheart,"Biography, Drama, History",4
+58,Dances with Wolves,"Adventure, Drama, Western",4
+59,Jurassic Park,"Action, Adventure, Sci-Fi",4
+60,The Exorcist,Horror,4
+61,The Pianist,"Biography, Drama, Music",4
+62,Goodfellas,"Biography, Crime, Drama",2
+63,The Deer Hunter,"Drama, War",4
+64,All Quiet on the Western Front,"Drama, War",4
+65,Bonnie and Clyde,"Action, Biography, Crime",3
+66,The French Connection,"Action, Crime, Drama",4
+67,City Lights,"Comedy, Drama, Romance",3
+68,It Happened One Night,"Comedy, Romance",2
+69,A Place in the Sun,"Drama, Romance",3
+70,Midnight Cowboy,Drama,0
+71,Mr. Smith Goes to Washington,"Comedy, Drama",4
+72,Rain Man,Drama,4
+73,Annie Hall,"Comedy, Romance",4
+74,Fargo,"Crime, Thriller",4
+75,Giant,"Drama, Western",1
+76,Shane,"Drama, Western",1
+77,The Grapes of Wrath,Drama,1
+78,The Green Mile,"Crime, Drama, Fantasy",4
+79,Close Encounters of the Third Kind,"Drama, Sci-Fi",0
+80,Nashville,"Comedy, Drama, Music",4
+81,Network,Drama,0
+82,The Graduate,"Comedy, Drama, Romance",0
+83,American Graffiti,"Comedy, Drama",4
+84,Pulp Fiction,"Crime, Drama",4
+85,Terms of Endearment,"Comedy, Drama",3
+86,Good Will Hunting,"Drama, Romance",0
+87,The African Queen,"Adventure, Drama, Romance",4
+88,Stagecoach,"Adventure, Drama, Western",0
+89,Mutiny on the Bounty,"Adventure, Biography, Drama",4
+90,The Great Dictator,"Comedy, Drama, War",4
+91,Double Indemnity,"Crime, Drama, Film-Noir",4
+92,The Maltese Falcon,"Crime, Film-Noir, Mystery",4
+93,Wuthering Heights,"Drama, Romance",4
+94,Taxi Driver,"Crime, Drama",4
+95,Rear Window,"Mystery, Thriller",4
+96,The Third Man,"Film-Noir, Mystery, Thriller",0
+97,Rebel Without a Cause,Drama,0
+98,North by Northwest,"Action, Adventure, Mystery",4
+99,Yankee Doodle Dandy,"Biography, Drama, Family",1
