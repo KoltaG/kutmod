@@ -24,31 +24,37 @@ class View(ttk.Window):
         self.countries = self.utils.get_countries()
         self.top100 = self.utils.get_movies()
         
-        
      # Dropdown menu options
-        options = self.countries
-        options2 = self.top100
+        optionsCountries = self.countries
+        optionsTop100 = self.top100
         # datatype of menu text
-        clicked = ttk.StringVar()
-        clicked2 = ttk.StringVar()
-        
-        clicked.set('Greece')
-        clicked2.set('The Godfather')
+        self.selectedCountry = ttk.StringVar()
+        self.selectedMovie = ttk.StringVar()
+
+        self.selectedCountry.set("Greece")
+        self.selectedMovie.set("The Godfather")
+
         # Create Dropdown menu
-        drop = ttk.OptionMenu( self , clicked , *options )
-        drop.pack()
-        drop2 = ttk.OptionMenu( self , clicked2 , *options2 )
-        drop2.pack()
-        s = ttk.Style()
+        dropCountries = ttk.OptionMenu( self , self.selectedCountry , *optionsCountries )
+        dropCountries.pack()
+        dropTop100 = ttk.OptionMenu( self , self.selectedMovie , *optionsTop100 )
+        dropTop100.pack()
+
         # Create button, it will change label text
-        def getMovies(self):
-            self.utils.write_results(clicked.get(), clicked2.get())
-        button = ttk.Button( self , text = "click Me" , command = getMovies(self), ).pack()
+        button = ttk.Button( self , text = "recommend" , command = self.getMovies, ).pack()
         
         # Create Label
-        label = ttk.Label( self , text = " " )
-        label.pack()
+        self.label = ttk.Label( self , text = " " )
+        self.label.pack()
 
         self.mainloop()    
   
+    def getMovies(self):
+        try:
+            recommendedMovies = self.utils.write_results(self.selectedMovie.get(), self.selectedCountry.get())
+            self.label.configure(text="\n".join(recommendedMovies))
+        except:
+            self.label.configure(text="No movies found")
+           
+
        
